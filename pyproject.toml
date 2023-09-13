@@ -1,5 +1,5 @@
 [project]
-name = "FortunesFavorite"
+name = "NoitaEyeGenerator"
 version = "0.0.1"
 authors = [
   { name="FortunesFavorite", email="author@example.com" },
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/FortunesFavored/EyeCryptography"
+"Bug Tracker" = "https://github.com/FortunesFavored/EyeCryptography/issues"
